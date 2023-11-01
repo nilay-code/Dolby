@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuntimeConfig>
+  <AutoSwitchEnabled value="false"/>
+  <CaptureStreamDetectedEnable value="true"/>
+  <DolbyEnabled value="true"/>
+  <SystemID value="default"/>
+  <VisualizerConfig>
+    <Setting Name="VisualizerEnabled" Value="0"/>
+  </VisualizerConfig>
+  <SelectedMainProfile value="dynamic"/>
+  <ProfileList/>
+</RuntimeConfig>
