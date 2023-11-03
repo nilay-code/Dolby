@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuntimeConfig>
+  <VisualizerConfig>
+    <Setting Name="VisualizerEnabled" Value="0"/>
+  </VisualizerConfig>
+  <SelectedMainProfile value="dynamic"/>
+  <ProfileList/>
+</RuntimeConfig>
